@@ -7,7 +7,6 @@ from sklearn.preprocessing import OneHotEncoder
 from sklearn.compose import ColumnTransformer
 import sys, os
 
-os.chdir('/Users/saad/Documents/YourFashion/')
 
 def dummy_data():
     data = {
